@@ -25,7 +25,6 @@ export default function useIndex() {
                 diaristas: UserInterface[];
                 quantidade_diaristas: number;
             }>("/api/diaristas-cidade?cep=" + cep.replace(/\D/g, ""));
-            console.log(data.diaristas);
             setDiaristas(data.diaristas);
             setDiaristasRestantes(data.quantidade_diaristas);
             setBuscaFeita(true);
