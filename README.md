@@ -5,7 +5,6 @@
 
 <div align="center">
 	  <img alt="GitHub" src="https://img.shields.io/github/license/pedrobarbosa0/e-diaristas?style=for-the-badge">
-	  <img alt="GitHub" src="https://img.shields.io/github/repo-size/pedrobarbosa0/e-diaristas?style=for-the-badge">
 	  <img alt="Github" src="https://img.shields.io/github/last-commit/pedrobarbosa0/e-diaristas?style=for-the-badge">
 	  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/pedrobarbosa0/e-diaristas?logo=typescript&style=for-the-badge">
 	  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/pedrobarbosa0/e-diaristas?style=for-the-badge">
