@@ -137,7 +137,7 @@ ___
 Você pode visualizar o repositório original do projeto através do link abaixo:
 
 <p align="center">
-	<a href="https://github.com/rocketseat-education/nlw-05-reactjs">
+	<a href="https://github.com/treinaweb/treinaweb-workshop-multistack-react">
 	  <img alt="Acessar repositório original" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 	</a>
 </p>
