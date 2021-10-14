@@ -16,6 +16,7 @@ function MyApp({ Component, pageProps }: AppProps) {
             <Head>
                 <meta charSet="utf-8" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
+                <meta name="description" content="Procure diaristas na sua região por Pedro Barbosa" />
                 <link rel="preconnect" href="https://fonts.googleapis.com" />
                 <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
                 {/* eslint-disable @next/next/no-page-custom-font */}
