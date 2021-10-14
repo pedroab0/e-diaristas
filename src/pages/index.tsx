@@ -60,9 +60,6 @@ const Home: NextPage = () => {
                     <ProfissionaisPaper>
                         <ProfissionaisContainer>
                             {diaristas.map((diarista, index) => {
-                                {
-                                    console.log(diarista);
-                                }
                                 return (
                                     <UserInformation
                                         key={index}
