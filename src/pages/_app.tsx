@@ -23,6 +23,7 @@ function MyApp({ Component, pageProps }: AppProps) {
                 />
                 {/* eslint-disable @next/next/no-css-tags */}
                 <link href="/fonts/tw-icons/css/treinaweb-icons.css" rel="stylesheet" />
+                <title>e-diaristas</title>
             </Head>
             <ThemeProvider theme={theme}>
                 <AppContainer>
